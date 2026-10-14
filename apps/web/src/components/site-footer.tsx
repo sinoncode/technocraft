@@ -117,7 +117,7 @@ export function SiteFooter() {
 							
 							<li>
 								<a
-									href="tel:+17328061984"
+									href="tel:+14696766531"
 									className="text-cream/80 underline-offset-4 transition-colors hover:text-cyan-bright hover:underline"
 								>
 									+1-469-676-6531
@@ -186,7 +186,7 @@ sales@technokraftserve.com
 						<ul className="mt-4 space-y-2.5 text-sm">
 							
 							<li className="pt-1  text-cyan-bright/75 font-semibold">
-								1303 W. Suite Number: 130, Walnut Hill, <br/>Irving TX 75038
+								3824 CEDAR SPRINGS RD PMB 801-7142,  <br/>DALLAS TX 75219-4136
 							</li>
 						</ul>
 						<p className="mt-4 text-pretty text-sm leading-relaxed text-cream/70">
