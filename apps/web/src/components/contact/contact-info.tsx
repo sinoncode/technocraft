@@ -5,13 +5,13 @@ const CHANNELS = [
 	{
 		icon: Building2,
 		title: 'Office',
-		body: '1303 W. Suite Number 130, Walnut Hill, Irving, TX 75038.',
+		body: '3824 CEDAR SPRINGS RD PMB 801-7142 DALLAS TX 75219-4136',
 	},
 	{
 		icon: Phone,
 		title: 'Phone',
-		body: '+1 (732) 806-1984 · +1 (469) 676-6531 ext. 405',
-		hrefs: ['tel:+17328061984', 'tel:+14696766531'],
+		body: '+1-469-676-6531',
+		hrefs: ['tel:+14696766531'],
 	},
 	{
 		icon: Mail,
