@@ -102,12 +102,12 @@ export function SiteHeader() {
 						Compute · Secure · Operate
 					</p>
 					<div className="flex items-center gap-4">
-						<span className="text-cream/50">Irving, TX</span>
+						<span className="text-cream/50">DALLAS TX 75219-4136</span>
 						<span className="text-cream/25" aria-hidden>
 							|
 						</span>
-						<a href="tel:+17328061984" className="transition-colors hover:text-cyan-bright">
-							+1 (732) 806-1984
+						<a href="tel:+14696766531" className="transition-colors hover:text-cyan-bright">
+							+1-469-676-6531
 						</a>
 					</div>
 				</div>
